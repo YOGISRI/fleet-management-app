@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
             category: vehicleCategory.value,
             driver: driverName.value,
             status: isAvailable.value,
-            img: "https://img.freepik.com/free-vector/red-sedan-automobile-with-metallic-elements-isolated-white-3d-realistic-vector_78474-174.jpg"
+            img: "https://coding-platform.s3.amazonaws.com/dev/lms/tickets/5e80fcb6-3f8e-480c-945b-30a5359eb40e/JNmYjkVr3WOjsrbu.png"
         };
 
         fleetData.push(fleetObj);
